@@ -1,2 +1,3 @@
 # deque
-Analogue of STL deque with allocator
+
+Реализиация deque на С++ с аллокатором
